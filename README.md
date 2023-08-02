@@ -36,7 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Some features are missing or unimplemented
 
-- Search bar (by tag, prompt and username)
-- Click on tag
+- Search bar (by tag, prompt and username) - Done ✔
+- Click on tag - Done ✔
 - View other profiles
 - ...
