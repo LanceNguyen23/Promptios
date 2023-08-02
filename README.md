@@ -38,5 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - Search bar (by tag, prompt and username) - Done ✔
 - Click on tag - Done ✔
-- View other profiles
+- View other profiles - Done ✔
 - ...
